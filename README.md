@@ -1,3 +1,1 @@
-# firstRepository
-myfirstRepository
-kfdghfghdf
+第一次使用github
